@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!DOCTYPE authorgroup PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % BOOK_ENTITIES SYSTEM "LuoYunCloud_UserGuide.ent">
+%BOOK_ENTITIES;
+]>
+<authorgroup>
+	<author>
+		<firstname>文档项目</firstname>
+		<surname>落云科技</surname>
+		<affiliation>
+			<orgname>落云科技</orgname>
+			<orgdiv>文档小组</orgdiv>
+		</affiliation>
+		<email>contact@luoyun.co</email>
+	</author>
+</authorgroup>
+
