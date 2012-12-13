@@ -15,13 +15,6 @@
 		     请填写简单介绍 
 		</para>
 	</abstract>
-	<corpauthor>
-		<inlinemediaobject>
-			<imageobject>
-				<imagedata fileref="images/luoyun-logo96.png" format="PNG" />
-			</imageobject>
-		</inlinemediaobject>
-	</corpauthor>
 	<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 	<xi:include href="Author_Group.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />
 </bookinfo>
